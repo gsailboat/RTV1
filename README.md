@@ -24,7 +24,7 @@ From here, we figure out if/when the light hits that point. So using the light p
 
 For scenes that incorporate rotation, the hook moves the object in a circular orbit around the center of the screen. This is a little tricky because (0, 0, 0) is technically the screen itself so the illusion makes use of fracction rotations of Pi to apply this.
 
-![Rotation of Scene 6](./images/scene_six.mov)
+![Rotation of Scene 6](./images/scene-six.mov)
 
 Lastly, the last scene shows orbiting of two objects and how they react to two different lights. For more of the math involved, I included the general idea from one of my main resources from this project. [Raytracing Math](https://www.purplealienplanet.com/node/20).
 
