@@ -33,7 +33,7 @@ Included are three different libraries that I use off and on. MLX is for printin
 
 To run it, you can copy and paste this.
 ```
-git clone https://github.com/gsailboat/rtv1.git
+git clone https://github.com/gsailboat/RTV1.git
 cd rtv1
 make
 ```
