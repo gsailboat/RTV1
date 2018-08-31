@@ -1,6 +1,6 @@
 # RTV1
 
-This project focuses on the effects of light on different trigonometic shapes in three dimensional space. In some of the scenes there are multiple lights and shapes to show shadow and light dispersion.
+This project focuses on the effects of light on different trigonometric shapes in three dimensional space. In some of the scenes there are multiple lights and shapes to show shadow and light dispersion.
 
 # Implementation
 After making the Makefile which incorporates making executables for a library provided called MLX which prints specific colors to pixels on the screen and a short list of key_hooks depending on which scene is being run, an executable is made that incorporates 6 different scenes. Understand the vector math and how these structs work together is vital.
@@ -41,7 +41,7 @@ From there all files are compiled. There happens to be alot of files so it does 
 ```
 ./rtv1 4
 ```
-From there you can exit that screeen or rotate the objects depending on what map you are using with the exit key (or exiting the program with the red x) or rotate the objects with the spacebar. 
+From there you can exit that screen or rotate the objects depending on what map you are using with the exit key (or exiting the program with the red x) or rotate the objects with the spacebar. 
 
 # Thank You
 Thanks to 42 and Ms. Danner from Woodstock Union High School for helping me comprehend the different pieces involved.
