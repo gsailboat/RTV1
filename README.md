@@ -3,7 +3,7 @@
 This project focuses on the effects of light on different trigonometric shapes in three dimensional space. In some of the scenes there are multiple lights and shapes to show shadow and light dispersion.
 
 # Implementation
-After making the Makefile which incorporates making executables for a library provided called MLX which prints specific colors to pixels on the screen and a short list of key_hooks depending on which scene is being run, an executable is made that incorporates 6 different scenes. Understand the vector math and how these structs work together is vital.
+After making the Makefile which incorporates making executables for a library provided called MLX which prints specific colors to pixels on the screen and a short list of key_hooks depending on which scene is being run, an executable is made that incorporates 6 different scenes. Understanding the vector math and how these structs work together is vital.
 
 ![Structs](./images/struct.png)
 
